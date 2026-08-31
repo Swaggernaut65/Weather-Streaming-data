@@ -1,0 +1,13 @@
+event_id,timestamp,location,latitude,longitude,temperature_c,feels_like_c,humidity_pct,pressure_hpa,wind_speed_ms,wind_direction_deg,visibility_m,rain_1h_mm,cloudiness_pct,weather_condition,weather_description,source
+OW-F0ACD411,31-08-2026 20:35,Delhi,28.6139,77.209,31.99,38.99,70,1001,1.54,260,10000,0,71,Clouds,broken clouds,OpenWeather
+OW-A9EB558E,31-08-2026 20:35,Mumbai,19.076,72.8777,29,34.53,79,1009,4.63,270,10000,0.28,32,Rain,light rain,OpenWeather
+OW-7580E90B,31-08-2026 20:35,Bengaluru,12.9716,77.5946,25.45,25.8,67,1012,1.54,290,10000,0,100,Clouds,overcast clouds,OpenWeather
+OW-C5B63BA5,31-08-2026 20:35,Chennai,13.0827,80.2707,30.79,37.79,76,1007,3.09,140,10000,0,92,Clouds,overcast clouds,OpenWeather
+OW-724B720D,31-08-2026 20:35,Kolkata,22.5726,88.3639,27.96,34.96,100,1000,3.09,110,10000,0.19,100,Rain,light rain,OpenWeather
+OW-0ABF6C7B,31-08-2026 20:35,Hyderabad,17.385,78.4867,26.21,26.21,73,1009,2.06,310,10000,0,100,Clouds,overcast clouds,OpenWeather
+OW-C25381EF,31-08-2026 20:36,Delhi,28.6139,77.209,31.99,38.99,70,1001,1.54,260,10000,0,71,Clouds,broken clouds,OpenWeather
+OW-CBCFE1A5,31-08-2026 20:36,Mumbai,19.076,72.8777,29,34.53,79,1009,4.63,270,10000,0.28,32,Rain,light rain,OpenWeather
+OW-B0798848,31-08-2026 20:36,Bengaluru,12.9716,77.5946,25.45,25.8,67,1012,1.54,290,10000,0,100,Clouds,overcast clouds,OpenWeather
+OW-10C8690D,31-08-2026 20:36,Chennai,13.0827,80.2707,30.79,37.79,76,1007,3.09,140,10000,0,92,Clouds,overcast clouds,OpenWeather
+OW-DB5483C0,31-08-2026 20:36,Kolkata,22.5726,88.3639,27.96,34.96,100,1000,3.09,110,10000,0.19,100,Rain,light rain,OpenWeather
+OW-EF5F4FEC,31-08-2026 20:36,Hyderabad,17.385,78.4867,26.21,26.21,73,1009,2.06,310,10000,0,100,Clouds,overcast clouds,OpenWeather
